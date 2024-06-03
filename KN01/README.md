@@ -12,7 +12,7 @@
 ### Connection String
 mongodb://admin:1234@5.173.72.195:27017/? authSource=admin&readPreference=primary&ssl=false
 
-Der authpass-Parameter gibt an, welche Collection für die Authentifizierung verwendet wird. Standardmässig ist dies die "admin"-Collection.
+Der authSource-Parameter gibt an, welche Database für die Authentifizierung verwendet wird. Standardmässig ist dies die "admin"-Collection.
 
 ### Linux Befehl sed
 Der sed-Befehl sucht einen Textabschnitt und überschreibt ihn mit einem neuen Wert. Dies ermöglicht das automatische Bearbeiten von Dateien, ohne dass manuell Text geändert werden muss. Mit 0.0.0.0 wird MongoDB angewiesen, auf allen Netzwerken sichtbar zu sein, während 127.0.0.1 den Zugriff auf das lokale Gerät (localhost) beschränkt. Das Skript soll ausserdem die Sicherheitsfunktionen von MongoDB aktivieren.
@@ -26,8 +26,10 @@ Der sed-Befehl sucht einen Textabschnitt und überschreibt ihn mit einem neuen W
 
 ![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/8591cfac-0e76-45b9-953d-a1cedebdfcde)
 
-Export Datei
-Ich habe es von anfang an richtig gemacht, da ich gegoogelt habe wie ich ein datum einfügen muss.
+## Export Datei
+### Erklärung zu Datentyp:
+> String: Einfache Textdarstellung des Datums (z.B. "2023-01-01").
+> Date: Spezifischer Datentyp für Datum und Zeit, ermöglicht zeitbasierte Operationen und Vergleiche (z.B. ISODate("2023-01-01T00:00:00Z")).
 
 # C) Erste Schritte Shell (20%)
 
