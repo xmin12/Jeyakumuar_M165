@@ -30,6 +30,7 @@ Der sed-Befehl sucht einen Textabschnitt und überschreibt ihn mit einem neuen W
 ### Erklärung zu Datentyp:
 > String: Einfache Textdarstellung des Datums (z.B. "2023-01-01").
 > Date: Spezifischer Datentyp für Datum und Zeit, ermöglicht zeitbasierte Operationen und Vergleiche (z.B. ISODate("2023-01-01T00:00:00Z")).
+Für den file siehe Ortner.
 
 # C) Erste Schritte Shell (20%)
 
