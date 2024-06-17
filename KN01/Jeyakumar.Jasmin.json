@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "665da9d560a23fe3222fe519"
+  },
+  "name": "Netharsana Jasmin Jeyakumar",
+  "birthdate": {
+    "$date": "1999-12-12T00:00:00.000Z"
+  },
+  "age": 24,
+  "residence": "Hombrechtikon",
+  "address": "Heusserstrasse 29",
+  "email": "netharsana.jeyakumar@edu.tbz.ch"
+}]
