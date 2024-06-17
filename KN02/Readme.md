@@ -20,3 +20,5 @@
 
 ## C) Anwendung des Schemas in MongoDB (10%)
 
+![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/594af9f4-a35b-481e-b9d6-c93866aed831)
+![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/e67b9b36-89ef-4ac5-886d-fa59c2691de2)
