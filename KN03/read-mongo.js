@@ -1,0 +1,6 @@
+db.fans.find()
+db.cds.find({$or: [ {Price: {$gte: 10}}, {description: {$exists: true}} ]})
+db.concertTickets.find({purchaseDate:{$gte:ISODate('2023-06-15'),$lt:ISODate('2023-07-10')}})
+db.fans.find({$and: [{ password: {$exists: true} }, {email: {$regex: /com/g}}]})
+db.cds.find({}, {title: 1})
+db.cds.find({}, {_id: 0, title: 1, description: 1, price: 1})
