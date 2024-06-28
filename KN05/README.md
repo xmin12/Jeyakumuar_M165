@@ -36,13 +36,9 @@ db.createUser({
 
 ### Abgaben
 
-![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/1df4ae84-5130-4e4c-aab7-93055abf97d8)
-
 ![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/0cde161b-86a9-4e3f-99b5-fa8c5a1187be)
 
 ![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/b48abe1b-971b-415b-9661-5459acf0972e)
-
-![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/c76db7ea-2706-483d-a15a-6b0a230d67dc)
 
 ![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/0c7342bf-214f-4fe1-8de6-6c7d0c1502aa)
 
