@@ -35,12 +35,19 @@ db.createUser({
 ## B) Backup und Restore (40%)
 
 ### Abgaben
-
+Backup Variante 1:
 ![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/0cde161b-86a9-4e3f-99b5-fa8c5a1187be)
+![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/71ded4b9-a088-44ff-90f3-56351c148670)
+![Screenshot 2024-07-01 133023](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/a728532e-55fc-4c1e-9258-8361eef6fbcc)
 
-![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/b48abe1b-971b-415b-9661-5459acf0972e)
+![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/77f543ed-a79c-42b9-bee7-24253a1c23f7)
 
-![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/0c7342bf-214f-4fe1-8de6-6c7d0c1502aa)
+![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/aab67092-422f-443f-abb3-059a367ac0b8)
+
+![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/11c388ec-5c05-4410-b8d4-a433d8d94b72)
+
+Backup Variante 2:
+
 
 
 
