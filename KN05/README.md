@@ -3,9 +3,9 @@
 ## A) Rechte und Rollen (40%)
 
 ## Abgabe
-
 ![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/842a29cc-3756-448f-81d6-20f355b33a63)
 
+> created user and admin
 ```javascript
 use admin
 
@@ -36,7 +36,7 @@ db.createUser({
 
 ## Abgaben
 ###Backup Variante 1:
-
+> Bakingup in AWS TERMINAL
 - before deleting 
 ![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/0cde161b-86a9-4e3f-99b5-fa8c5a1187be)
 
@@ -55,8 +55,7 @@ db.createUser({
 ![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/11c388ec-5c05-4410-b8d4-a433d8d94b72)
 
 ### Backup Variante 2:
-
-backup
+> backuping MongoCommpas GUI
 ![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/9fb02b58-0b9b-463e-8b4f-683c5d8615a8)
 before deleting
 ![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/d9e6d676-21a8-463c-9a4d-c1829956ace0)
@@ -83,7 +82,6 @@ restoring
 
 ## Abgabe
 ## C) Skalierung (20%)
- 
 - Replikation
 > Replikation bedeutet, dass Daten von einem Hauptserver auf mehrere andere Server kopiert werden. Das sorgt dafür, dass die Daten immer verfügbar sind und schneller gelesen werden können. Wenn der Hauptserver ausfällt, übernimmt einer der anderen Server automatisch. Die zusätzlichen Server können auch genutzt werden, um die Leseanfragen zu verteilen und zu beschleunigen.
  
