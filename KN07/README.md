@@ -10,8 +10,6 @@
 - Original-Datei siehe im Repo.
 - Erklärung zu den Attributen und wieso diese auf die entsprechenden Knoten und Kanten
 verteilt wurden
-> ### Erklärung zu den Attributen und deren Verteilung auf Knoten und Kanten
-
 #### **Knoten (Nodes)**
 
 1. **Fans**
