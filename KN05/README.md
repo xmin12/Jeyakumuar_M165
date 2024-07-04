@@ -82,12 +82,21 @@ restoring
 
 ## Abgabe
 ## C) Skalierung (20%)
-- Replikation
+
+[Quelle](https://www.mongodb.com/resources/basics/scaling)
+
+
+- Replikation (Replikation)
 > Replikation bedeutet, dass Daten von einem Hauptserver auf mehrere andere Server kopiert werden. Das sorgt dafür, dass die Daten immer verfügbar sind und schneller gelesen werden können. Wenn der Hauptserver ausfällt, übernimmt einer der anderen Server automatisch. Die zusätzlichen Server können auch genutzt werden, um die Leseanfragen zu verteilen und zu beschleunigen.
+
+![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/44963914-0921-4fc6-aa15-4a840ad54fab)
+
  
-- Partition
+- Partition  (Sharding)
 > Partition teilt eine grossee Datenbank in kleinere Teile, sogenannte Shards, um die Datenbank effizienter zu machen. Jeder Shard enthält einen Teil der gesamten Daten, wodurch die Last auf einzelne Server verteilt wird. Das verbessert die Leistung und erlaubt es der Datenbank, mehr Daten zu verwalten. Allerdings erfordert Sharding eine sorgfältige Verwaltung, um sicherzustellen, dass die Daten gleichmässig und sinnvoll verteilt sind.
- 
+
+![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/01d8f1fe-3f3f-417e-8245-027eff39d9f6)
+
 - Empfehlung an Firma:
 > Ich schlage vor, dass wir Replikation einführen, um unsere Datenbank robuster und schneller zugänglich zu machen. Ausserdem sollten wir Partition nutzen, um besser mit grosse Datenmengen und vielen Anfragen umgehen zu können.
 
