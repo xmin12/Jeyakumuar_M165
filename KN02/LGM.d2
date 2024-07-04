@@ -1,45 +1,45 @@
 Fans: {
-    columns: |md
-    - _id: ObjectId()
-    - orders: Array\<ConcertTicketsId\>
-    - email: string
-    - password: string
-    |
+  columns: |md
+      - _id: ObjectId()
+      - email: string
+      - password: string
+  |
 }
 
 ConcertTickets: {
-    columns: |md
-        - _id: ObjectId()
-        - purchaseDate: Date()
-        - isDelivered: boolean
-        - cds: Array\<CDId\>
-        - Invoice {}
-    |
+  columns: |md
+      - _id: ObjectId()
+      - fanId: ObjectId() 
+      - purchaseDate: Date()
+      - isDelivered: boolean
+      - cds: Array\<CDId\>
+      - Invoice {}
+  |
 
-    Invoice: {
-        columns: |md
-            - _id: ObjectId()
-            - refNumber: int
-            - netPrice: float
-            - dueDate: Date()
-        |
-    }
+  Invoice: {
+      columns: |md
+          - _id: ObjectId()
+          - refNumber: int
+          - netPrice: float
+          - dueDate: Date()
+      |
+  }
 }
 
 CDs: {
-    columns: |md
-        - _id: ObjectId()
-        - title: string
-        - price: float
-        - description: string
-    |
+  columns: |md
+      - _id: ObjectId()
+      - title: string
+      - price: float
+      - description: string
+  |
 }
 
 Fans -- ConcertTickets{
-    source-arrowhead: 1
-    target-arrowhead: M
+  source-arrowhead: M
+  target-arrowhead: 1
 }
 CDs -- ConcertTickets{
-    source-arrowhead: M
-    target-arrowhead: M
+  source-arrowhead: M
+  target-arrowhead: M
 }

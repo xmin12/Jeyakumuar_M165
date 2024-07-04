@@ -1,5 +1,10 @@
+
+#KN02
+
 use concert;
 
-db.createCollection(fans)
-db.createCollection(CDs)
-db.createCollection(conserTicket)
+db.createCollection("fans")
+db.createCollection("cds")
+db.createCollection("concertTickets")
+
+
