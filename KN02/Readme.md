@@ -13,7 +13,8 @@
 
 > Modell LGM
 
-![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/91e11d0f-4d86-45ec-9102-3e6a846d7035)
+![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/da208443-200b-4bea-b97e-82421f9b8231)
+
 
 #### Die gewählte Variante verwendet Verschachtelungen, um eine natürlichere und effizientere Datenmodellierung zu erreichen. Dadurch können Beziehungen zwischen Entitäten wie Fans (Customers), Konzerttickets (ConcertTickets) und CDs klar dargestellt werden, ohne die Notwendigkeit einer separaten Verknüpfungstabelle für viele-zu-viele-Beziehungen. Dies verbessert die Datenintegrität und vereinfacht Abfragen, indem alle relevanten Informationen in den jeweiligen Dokumenten gespeichert werden.
 
