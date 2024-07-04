@@ -6,7 +6,8 @@
 
 ## B) Logisches Modell für Neo4j (70%)
 ### Mein Bild des logischen Datenmodells.
-![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/18a71cfb-9826-4e4e-974d-d5b8db8ae958)
+![image](https://github.com/xmin12/Jeyakumuar_M165/assets/112725311/d604c814-0481-4edb-a9a1-d703968ef924)
+
 - Original-Datei siehe im Repo.
 - Erklärung zu den Attributen und wieso diese auf die entsprechenden Knoten und Kanten
 verteilt wurden
